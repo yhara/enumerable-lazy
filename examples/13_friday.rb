@@ -8,4 +8,4 @@ require 'date'
 puts (Date.new(2011)..Date.new(9999))
   .lazy
   .select{|d| d.day == 13 and d.friday?}
-  .take(10)
+  .first(10)
