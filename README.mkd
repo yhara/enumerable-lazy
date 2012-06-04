@@ -1,3 +1,21 @@
+Enumerable#lazy is officially supported by Ruby 2.0. Yay!
+==============================================
+
+Since Enumeble#lazy is accepted as a new feature of Ruby 2.0,
+this repository is no longer maintained.
+
+Enumerator#lazy is already avaliable in svn master, so you can try it 
+with "rvm install ruby-head" or "rbenv install 2.0.0-dev".
+
+The CRuby team is about to fix the specificaiton of Ruby 2.0
+in [Aug 2012](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/40301).
+You should hurry up if you want an idea to improve it!
+
+see also:
+
+* [http://bugs.ruby-lang.org/issues/4890](Feature #4890 Enumerable#lazy)
+* [Ruby 2.0 Enumerable::Lazy | Railsware Blog](http://blog.railsware.com/2012/03/13/ruby-2-0-enumerablelazy/)
+
 enumerable-lazy
 ===============
 
