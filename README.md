@@ -216,4 +216,7 @@ Contact
 
 http://github.com/yhara/enumerable-lazy
 
-http://twitter.com/yhara_en
+License
+=======
+
+MIT
