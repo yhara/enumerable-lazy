@@ -10,6 +10,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/yhara/enumerable-lazy"
   s.summary     = %q{provides `lazy' version of map, select, etc. by `.lazy.map'}
   s.description = s.summary
+  s.license = "MIT"
 
   s.files         = `git ls-files`.split("\n")
   #s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
