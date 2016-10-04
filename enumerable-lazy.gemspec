@@ -3,12 +3,12 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "enumerable-lazy"
-  s.version     = "0.0.1"
+  s.version     = "0.0.2"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Yutaka HARA"]
   s.email       = ["yutaka.hara.gmail.com"]
   s.homepage    = "https://github.com/yhara/enumerable-lazy"
-  s.summary     = %q{provides `lazy' version of map, select, etc. by `.lazy.map'}
+  s.summary     = %q{**deprecated**}
   s.description = s.summary
   s.license = "MIT"
 
